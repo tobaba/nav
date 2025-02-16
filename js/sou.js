@@ -71,10 +71,10 @@ var quick_list_preinstall = {
         explain: "yandex"
     },
     '8': {
-        title: "SecretChina",  
-        url: "https://www.secretchina.com/",  
+        title: "DuckAI",  
+        url: "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",    
         img: "./icon/vt.png",
-        explain: "secretchina"
+        explain: "DuckAI"
     },
     '9': {
         title: "纽约时报",
