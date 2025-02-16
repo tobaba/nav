@@ -57,10 +57,12 @@ var quick_list_preinstall = {
         explain: "ChatGPT"
     },
     '6': {
-        title: "百度助手",
-        url: "https://chat.baidu.com/",
-        img: "./icon/baiduai.png",
-        explain: "百度AI助手"
+        title: "MSDN",     
+        url: "https://learn.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-9.0",
+        img: "./icon/msdn.png",
+        explain: "MSDN"   
+
+
     },
     '7': {
         title: "Yandex",         
