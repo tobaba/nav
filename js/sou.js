@@ -71,8 +71,8 @@ var quick_list_preinstall = {
         explain: "yandex"
     },
     '8': {
-        title: "看看中国",
-        url: "https://www.secretchina.com/",
+        title: "SecretChina",  
+        url: "https://www.secretchina.com/",  
         img: "./icon/vt.png",
         explain: "secretchina"
     },
