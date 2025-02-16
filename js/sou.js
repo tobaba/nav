@@ -73,7 +73,7 @@ var quick_list_preinstall = {
     '8': {
         title: "DuckAI",  
         url: "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",    
-        img: "./icon/vt.png",
+        img: "./icon/duck.png",
         explain: "DuckAI"
     },
     '9': {
