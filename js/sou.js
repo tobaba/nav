@@ -65,7 +65,7 @@ var quick_list_preinstall = {
     '7': {
         title: "Yandex",         
         url: "https://ya.ru/",
-        img: "./icon/copilot.png",
+        img: "./icon/yandex.png",
         explain: "yandex"
     },
     '8': {
