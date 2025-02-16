@@ -63,10 +63,10 @@ var quick_list_preinstall = {
         explain: "百度AI助手"
     },
     '7': {
-        title: "copilot",
-        url: "https://copilot.microsoft.com/",
+        title: "Yandex",         
+        url: "https://ya.ru/",
         img: "./icon/copilot.png",
-        explain: "copilot"
+        explain: "yandex"
     },
     '8': {
         title: "看看中国",
