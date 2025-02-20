@@ -57,22 +57,22 @@ var quick_list_preinstall = {
         explain: "ChatGPT"
     },
     '6': {
-        title: "MSDN",     
+        title: "MSDN",
         url: "https://learn.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-9.0",
         img: "./icon/msdn.png",
-        explain: "MSDN"   
+        explain: "MSDN"
 
 
     },
     '7': {
-        title: "Yandex",         
+        title: "Yandex",
         url: "https://yandex.com",
         img: "./icon/yandex.png",
         explain: "yandex"
     },
     '8': {
-        title: "DuckAI",  
-        url: "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",    
+        title: "DuckAI",
+        url: "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
         img: "./icon/duck.png",
         explain: "DuckAI"
     },
@@ -88,6 +88,42 @@ var quick_list_preinstall = {
         img: "./icon/BBC.png",
         explain: "BBC中文"
     }
+	,
+    '11': {
+        title: "Yahoo财经",
+        url: "https://hk.finance.yahoo.com/quote/%5EHSI/",
+        img: "./icon/yahoo.png",
+        explain: "Yahoo财经"
+    }
+	,
+    '12': {
+        title: "Google",
+        url: "https://www.google.ru",
+        img: "./icon/google.png",
+        explain: "Google"
+    }
+	,
+    '13': {
+       title: "thepiratebay",
+        url: "https://thepiratebay.org",
+        img: "./icon/thepiratebay.png",
+        explain: "thepiratebay"
+    }
+	,
+    '14': {
+        title: "探索",
+        url: "https://www.pinterest.com/ideas/",
+        img: "./icon/pinterest.png",
+        explain: "探索"
+    }
+	,
+    '15': {
+        title: "soundcloud",
+        url: "https://soundcloud.com/sc-playlists-fr/sets/pop-energy",
+        img: "./icon/soundcloud.png",
+        explain: "soundcloud"
+    }
+	
 };
 
 // 主题方案【预设】
